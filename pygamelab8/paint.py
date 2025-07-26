@@ -1,4 +1,3 @@
-#  python C:\Users\Nurhat\OneDrive\Desktop\pygamelab8\3.py
 import pygame
 pygame.init()
 
