@@ -1,4 +1,3 @@
-# python C:\Users\Nurhat\OneDrive\Desktop\pygamelab8\1.py
 import pygame, sys
 from pygame.locals import *
 import random, time
